@@ -15,6 +15,10 @@ what I have done so far and looking forward to what comes next.
 
 <a href="https://www.linkedin.com/in/david-nelson-0840b9105/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nelso22&repo=techtickethub)](https://github.com/Nelso22/techtickethub)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nelso22&repo=dailysweat)](https://github.com/Nelso22/dailysweat)
+
+
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nelso22&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
